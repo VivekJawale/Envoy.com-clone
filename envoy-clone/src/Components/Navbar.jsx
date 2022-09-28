@@ -54,7 +54,6 @@ const Navbar = () => {
               <Box>
                 <NavLink to="/hiring">
                   <Heading
-                    bgColor="white"
                     fontSize="16px"
                     color="#3F4450"
                     borderRadius="20%"
